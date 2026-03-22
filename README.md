@@ -65,6 +65,6 @@ itunes-music-analysis/
 - Aggregations & Grouping
 - CTEs
 - Window Functions 
-
+ 
 ## 📌Conclusion
 The iTunes music store demonstrates strong historical customer loyalty and clear genre dominance, particularly in Rock music. However, recent inactivity and geographic monetization gaps present immediate opportunities for targeted intervention. By implementing loyalty programs, seasonal optimization strategies, geographic targeting, and genre diversification initiatives, the business can potentially increase overall revenue by 10–15% while reducing dependency risk on a single genre.
